@@ -4,15 +4,12 @@
 ## Recent projects:
 - [Golang Package: MqttDistribNet]()
 - [Application: Taskhub]()
-<br>Modern and easy task management application.
-- [See more...]()
+- [See all...]()
 
 ## Recent articles:
 - [Explaining IMDb Movie Review Text Classification]()
-<br>Transformation of TensorFlow text classification models into local interpretable models to explain the base model decisions via effects.
 - [People are the heart of digital innovation]()
-<br>Connect people to succeed in digital excellence and innovation.
-- [See more...]()
+- [See all...]()
 
 ## Recent work experience:
 
