@@ -16,12 +16,9 @@
 
 ## 💼 Work Experience
 
--  **Software Engineer @ Arvato Systems GmbH** - Berlin, Germany (*June 2023 – Present*)
-    
-    Designing, developing, and deploying innovative systems for major projecs:
+- **Software Engineer @ Arvato Systems GmbH** - Berlin, Germany (*June 2023 – Present*)
     - *GAIA-X 4 ROMS*: A forward-thinking research initiative focused on the future of mobility services for parcel logistis.
     - *platbricks*: A cutting-edge Warehouse Management System revolutionizing warehouse operatios. - Leveraging technologies such as .NET, CosmosDB (NoSQL), GraphQL, Service Bus, EventHub, and Terraform to deliver scalable and efficient solutios.
-
 - **Master Thesis – Data Science @ Mercedes-Benz Tech Innovation GmbH** - Stuttgart, Germany (*November 2022 – March 2023*)
     - Researched and developed advanced data pipelines and machine learning models to process, analyze, and extract insights from data collected during functional safety processes, ensuring compliance with ISO 26262 standars. - Utilized Python, TensorFlow, PySpark, and Databricks to design scalable and efficient systems for handling large volumes of complex data.
 - [See all work experience...](https://www.tjarkprokoph.com/?doc=experience%2Findex)
@@ -29,9 +26,7 @@
 ## 🎓 Education
 
 - ⚙️ **M.Sc. in Data Science @ FernUniversität in Hagen**
-
 - ✅ **M.Sc. in Computer Science and Economics @ Fachhochschule Wedel**
-
 - [See all education...](https://www.tjarkprokoph.com/?doc=education%2Findex)
 
 ## 🛠️ Skillset
