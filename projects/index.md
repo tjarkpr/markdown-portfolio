@@ -3,6 +3,7 @@ A curated selection of my recent projects, showcasing my expertise in software d
 
 | Project Name | Description | Technologies | Link |
 |--------------|-------------|--------------|------|
+| [**Watermarking**](https://www.tjarkprokoph.com/?doc=projects%2Fwatermarking) | Watermarking images in frequency domain. | Python | [GitHub](https://gist.github.com/tjarkpr/ac2b3976755a76002d9e6e9c8d0ee868)
 | [**MqttDistribNet**]() | A structured distribution network for AMQP messaging. | Go | [GitHub](https://github.com/tjarkpr/mqttdistribnet) |
 | [**TaskHub**]() | Modern task management application with time tracking and persistent storage. | TypeScript, React | [GitHub](https://github.com/tjarkpr/TaskHub) |
 | [**CosmosNoSQL Clear Container Extension**]() | Tool to clear all documents from CosmosNoSQL containers. | TypeScript | [GitHub](https://github.com/tjarkpr/cosmosnosql-clear-container-extension) |
