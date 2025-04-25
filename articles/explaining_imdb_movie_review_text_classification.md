@@ -48,7 +48,7 @@ To understand the influence of input components (text tokens) on the model’s o
 
 **AGTE** also builds on the LIME method but focuses on **global explanation** across the entire dataset.
 
-![AGTE-Method]()
+![AGTE-Method](https://github.com/tjarkpr/markdown-portfolio/blob/c3ed18097fbff044a9d8fa14465d3ac446255ece/articles/images/explaining_imdb_movie_review_text_classification/agte.webp?raw=true)
 
 ### Goal:
 To understand how input components (tokens) affect the classification label **across all data points**.
