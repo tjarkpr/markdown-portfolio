@@ -10,7 +10,7 @@
 
 ## ✍️ Articles
 
-- [Explaining IMDb Movie Review Text Classification]()
+- [Explaining IMDb Movie Review Text Classification](https://www.tjarkprokoph.com/?doc=articles%2Fexplaining_imdb_movie_review_text_classification)
 - [People are the Heart of Digital Innovation]()
 - [See all articles...](https://www.tjarkprokoph.com/?doc=articles%2Findex)
 
