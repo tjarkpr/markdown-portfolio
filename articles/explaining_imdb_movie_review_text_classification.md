@@ -6,7 +6,6 @@
 **Read Time:** 3 min  
 
 [GitHub Repository: tjarkpr/ate](https://github.com/tjarkpr/ate)  
-> *Transformation of TensorFlow text classification models into local interpretable models to explain the base model.*
 
 ## Motivation
 
