@@ -4,8 +4,8 @@
 
 ## 🚀 Projects
 
-- [Golang Package: MqttDistribNet]()
-- [Application: TaskHub]()
+- [Golang Package: MqttDistribNet](https://www.tjarkprokoph.com/?doc=projects%2Fmqttdistribnet)
+- [Application: TaskHub](https://www.tjarkprokoph.com/?doc=projects%2Ftaskhub)
 - [See all projects...](https://www.tjarkprokoph.com/?doc=projects%2Findex)
 
 ## ✍️ Articles
