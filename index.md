@@ -1,44 +1,46 @@
-# Digital Engineer crafting systems with structural clarity
+# Solution Architect designing scalable enterprise systems
 
-👋 Hey there! I am Tjark, a tech enthusiast, software & data engineer, and unprofessional car mechanic. I believe beauty is in the structure, and I bring that to my code. This webpage serves as the single source of truth regarding my work. I keep it updated via [this GitHub repository](https://github.com/tjarkpr/markdown-portfolio). The webpage you're viewing is a wrapper for the content.
+Tjark Prokoph is a Solution Architect with a background in software engineering and data-driven systems. His work focuses on designing scalable, cross-technology platforms that align technical execution with business objectives and long-term operational stability. This website provides a structured overview of professional experience, selected projects, and technical publications.
 
-## 🚀 Projects
+## Selected Projects
 
-- [Golang Package: MqttDistribNet](https://www.tjarkprokoph.com/?doc=projects%2Fmqttdistribnet)
-- [Application: TaskHub](https://www.tjarkprokoph.com/?doc=projects%2Ftaskhub)
-- [See all projects...](https://www.tjarkprokoph.com/?doc=projects%2Findex)
+- [Golang Package: MqttDistribNet](https://www.tjarkprokoph.com/projects/mqttdistribnet)
+- [Application: TaskHub](https://www.tjarkprokoph.com/projects/taskhub)
+- [View all projects...](https://www.tjarkprokoph.com/projects)
 
-## ✍️ Articles
+## Articles & Insights
 
-- [Explaining IMDb Movie Review Text Classification](https://www.tjarkprokoph.com/?doc=articles%2Fexplaining_imdb_movie_review_text_classification)
-- [People are the Heart of Digital Innovation](https://www.tjarkprokoph.com/?doc=articles%2Fpeople_are_the_heart_of_digital_innovation)
-- [See all articles...](https://www.tjarkprokoph.com/?doc=articles%2Findex)
+- [Explaining IMDb Movie Review Text Classification](https://www.tjarkprokoph.com/articles/explaining_imdb_movie_review_text_classification)
+- [People are the Heart of Digital Innovation](https://www.tjarkprokoph.com/articles/people_are_the_heart_of_digital_innovation)
+- [View all articles...](https://www.tjarkprokoph.com/articles)
 
-## 💼 Work Experience
+## Professional Experience
 
-- **Software Engineer @ Arvato Systems GmbH** - Berlin, Germany *(June 2023 – Present)*
-    - *GAIA-X 4 ROMS*: A forward-thinking research initiative focused on the future of mobility services for parcel logistis.
-    - *platbricks*: A cutting-edge Warehouse Management System revolutionizing warehouse operatios. - Leveraging technologies such as .NET, CosmosDB (NoSQL), GraphQL, Service Bus, EventHub, and Terraform to deliver scalable and efficient solutios.
-- **Master Thesis – Data Science @ Mercedes-Benz Tech Innovation GmbH** - Stuttgart, Germany *(November 2022 – March 2023)*
-    - Researched and developed advanced data pipelines and machine learning models to process, analyze, and extract insights from data collected during functional safety processes, ensuring compliance with ISO 26262 standars. - Utilized Python, TensorFlow, PySpark, and Databricks to design scalable and efficient systems for handling large volumes of complex data.
-- [See all work experience...](https://www.tjarkprokoph.com/?doc=experience%2Findex)
+- **Solution Architect / Software Engineer @ Arvato Systems GmbH** - *(June 2023 – Present)*
+    - Ownership of solution architecture for modular enterprise platforms
+    - Technical interface between business stakeholders and engineering teams
+    - Contribution to distributed system and cloud architecture design
+    - Support of scalable DevOps and delivery models
+- **Masterthesis – Data Science @ Mercedes-Benz Tech Innovation GmbH** - *(November 2022 – March 2023)*
+    - Design of data pipelines and machine learning models within ISO 26262 functional safety processes
+    - Development of scalable data processing and decision-support concepts
+- [View full experience...](https://www.tjarkprokoph.com/experience)
 
-## 🎓 Education
+## Education
 
-- ⚙️ **M.Sc. in Data Science @ FernUniversität in Hagen**
-- ✅ **M.Sc. in Computer Science and Economics @ Fachhochschule Wedel**
-- [See all education...](https://www.tjarkprokoph.com/?doc=education%2Findex)
+- M.Sc. Computer Science & Economics
+- B.Sc. Computer Science & Economics
+- [View education...](https://www.tjarkprokoph.com/education)
 
-## 🛠️ Skillset
+## Expertise
 
-- **Programming Language**: Golang, Python, TypeScript, JavaScrip, C#
-- **Frameworks & Tool**: React, Node.js, ASP.NET, Vue.js, Django, Symfony
-- **Database**: CosmosDB NoSQL & SQL, MongoDb, Redis
-- **Cloud Platform**: Azure
-- **DevOps & Infrastructur**: Docker, Kubernetes, Terraform, Git, CI/CD
-- **Data & AI**: PyTorch, Sklearn, TensorFlow, PySpark, Databicks
-- **Methodologie**: Agile, Scrum
+- Solution & Enterprise Architecture
+- Distributed Systems & Cloud Platforms
+- DevOps & Scalable Delivery Models
+- Data-Driven Systems
+- Stakeholder Alignment
+- Technical Background
 
-## 📫 Conact
+## Conact
 
-Do not hesitate to contact me via E-Mail. Either click on the "Contact me" button or just write to: [info@tjarkprokoph.com](mailto:info@tjarkprokophcom).
+For professional inquiries or collaboration: [info@tjarkprokoph.com](mailto:info@tjarkprokoph.com).
