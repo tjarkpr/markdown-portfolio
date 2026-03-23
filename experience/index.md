@@ -51,7 +51,7 @@ A structured overview of my professional journey, highlighting roles that blend 
 
 - Developed static web pages and Excel automations with macros for labs
 
-### ** Data Collector (Working Student)**  
+### **Data Collector (Working Student)**  
 **Rörd Braren Bereederungs GmbH & Co. KG**, Glückstadt, Germany  
 *(November 2018 – January 2020)*
 
