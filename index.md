@@ -5,7 +5,7 @@ I am a solution architect with a background in software engineering and data-dri
 ## Selected Projects
 
 - [Golang Package: MqttDistribNet](https://www.tjarkprokoph.com/projects/mqttdistribnet)
-- [Application: TaskHub](https://www.tjarkprokoph.com/projects/taskhub)
+- [Invisible Watermarking](https://www.tjarkprokoph.com/projects/watermarking)
 - [View all projects...](https://www.tjarkprokoph.com/projects)
 
 ## Articles & Insights
