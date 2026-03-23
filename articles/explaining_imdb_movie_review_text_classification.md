@@ -41,7 +41,7 @@ To understand the influence of input components (text tokens) on the model’s o
   ...are all configurable.
 - The process includes **randomized, iterative refinement**, improving the quality of the linear approximation over time.
 
-👉 **[ALTE Tutorial Notebook](https://gist.github.com/tjarkpr/931514e936999fb7e27a5f98c3576ca4)**
+**[ALTE Tutorial Notebook](https://gist.github.com/tjarkpr/931514e936999fb7e27a5f98c3576ca4)**
 
 ## Approximate Global Text Explanation (AGTE)
 
@@ -61,7 +61,7 @@ To understand how input components (tokens) affect the classification label **ac
 - The token influence data is transformed into **decision rule sets** using a **DecisionTree**.
 - This enables structured, rule-based interpretation of the classification model.
 
-👉 **[AGTE Tutorial Notebook](https://gist.github.com/tjarkpr/d08d175da0654a255686d13034b06e05)**
+**[AGTE Tutorial Notebook](https://gist.github.com/tjarkpr/d08d175da0654a255686d13034b06e05)**
 
 ## Related Work
 
