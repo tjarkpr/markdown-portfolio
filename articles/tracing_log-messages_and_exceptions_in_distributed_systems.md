@@ -31,7 +31,7 @@ To address this, we need a **standardized tracing context** that can **connect l
 
 The **W3C Trace Context** defines a standardized way to propagate tracing metadata across services — regardless of vendor or environment.
 
-### 🔹 Key Components
+### Key Components
 
 #### 1. `Traceparent` Header  
 This required header includes:
