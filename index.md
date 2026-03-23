@@ -1,6 +1,6 @@
 # Solution Architect designing scalable enterprise systems
 
-Tjark Prokoph is a Solution Architect with a background in software engineering and data-driven systems. His work focuses on designing scalable, cross-technology platforms that align technical execution with business objectives and long-term operational stability. This website provides a structured overview of professional experience, selected projects, and technical publications.
+I am a solution architect with a background in software engineering and data-driven systems. My work focuses on designing scalable, cross-technology platforms that align technical execution with business objectives and long-term operational stability.
 
 ## Selected Projects
 
